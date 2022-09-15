@@ -1,5 +1,6 @@
-##Slinq
-[S]lices-[LINQ]! Its like LINQ of C# for Go, but way worse:
+## slinq
+<b>[s]lices-[LINQ]</b>
+Its like LINQ of C# but for Go and way worse ! :)
 - its only for slices
 - it's not chainable
 - it only contains the functions i deemed to be "maybe useful"
